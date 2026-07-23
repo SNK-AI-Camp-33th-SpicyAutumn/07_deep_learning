@@ -29,3 +29,4 @@ cifar*.*
 /02_cnn/models/resnet18_svhn_state_dict.joblib
 /02_cnn/data/train_32x32.mat
 /02_cnn/data/test_32x32.mat
+/02_cnn/models/fashion_mnist_cnn.joblib
